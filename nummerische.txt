@@ -1,0 +1,17 @@
+1. Welches Verfahren ist besser als die andereren Verfahren. Der will nicht auswendig lernen.
+	Satz von fix satz zum balence
+ 
+2- Der will keinen Beweis und kein Formeln.
+
+3- Der will Vor-und Nachteil von jedem einzelnen Verfahren?
+4- wo werden die einzelnen Verfahren verwendet? und warum?
+
+
+
+
+Einführung: 1
+Numerische Verfahren zur Lösung von Linearen GLS & Numerische Verfahren zur Lösung von nicht Linearen GLS: 1
+Approximation & Eigenwerprobleme = 1
+Numerische Integration & Interpolation = 1
+Numerische Lösung gewöhnlicher Differentialgleichungen & Numerische Lösung Partieller Differentialgleichungen = 1
+Numerische Optimierung = 1
